@@ -1,0 +1,46 @@
+body{
+    background-image: url('https://static.vecteezy.com/ti/vetor-gratis/p1/3794789-programacao-codigo-codificacao-ou-hacker-fundo-programacao-codigo-icone-feito-com-codigo-binario-digital-dados-binarios-e-streaming-codigo-digital-matriz-fundo-com-digitos-1-ilustracaoial-0-vetor.jpg'); 
+background-repeat: no-repeat; 
+background-size: cover;
+background-position:left;
+color:rgb(0, 0, 0);
+}
+#sobre-mim{
+    font-family: system-ui;
+    font-size: 15pt;
+}
+.oQueSou{
+    font-family: Arial;
+    font-size: 12pt;
+    
+}
+a{
+    line-height: 50px;
+}
+a#pagina{
+    color:blue;
+    font: normal 15pt Arial;
+}
+.html{
+    font-size: 20px;
+}
+.css{
+    font-size: 19px;
+
+}
+.js{
+    font-size: 18px;
+
+}
+.sql{
+    font-size: 17px;
+}
+.react{
+    font-size:16px;
+}
+.bootstrap{
+    font-size:15px;
+}
+.metoagil{
+    font-size:14px;
+}
