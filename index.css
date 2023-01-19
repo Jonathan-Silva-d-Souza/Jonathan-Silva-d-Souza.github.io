@@ -5,14 +5,19 @@ background-size: cover;
 background-position:left;
 color:rgb(0, 0, 0);
 }
-#sobre-mim{
+.sobre-mim{
     font-family: system-ui;
     font-size: 15pt;
+    position:absolute;
+  
 }
 .oQueSou{
     font-family: Arial;
-    font-size: 12pt;
-    
+    font-size: 12pt; 
+    position:relative;
+    left:10px;
+    top:200px;  
+    text-align: justify;
 }
 a{
     line-height: 50px;
@@ -20,6 +25,12 @@ a{
 a#pagina{
     color:blue;
     font: normal 15pt Arial;
+}
+.unix{
+    font-size:22px;
+}
+.git{
+    font-size: 21px;
 }
 .html{
     font-size: 20px;
@@ -43,4 +54,34 @@ a#pagina{
 }
 .metoagil{
     font-size:14px;
+}
+.nome{
+    text-align:center;
+}
+div.hab{
+    display:inline-block;
+    padding: 10px;
+    vertical-align: top;
+}
+#foto{
+    float:left;
+    padding:10px;
+    background-color: green;
+    border-radius: 50px;
+    
+}
+.foto-container{
+    display: inline-block;
+    height: 500px;
+    color:rgb(0, 255, 0);
+    background-image: url('https://respostas.sebrae.com.br/wp-content/uploads/2022/05/O-que-e-um-linguagem-de-programacao-959x615.png');
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-size:left;
+    padding: 10px;
+    position:relative;
+
+}
+div.descricao{
+    
 }
