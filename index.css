@@ -85,3 +85,6 @@ div.hab{
 div.descricao{
     
 }
+ul li:nth-child(odd){
+    background-color: aqua;
+}
